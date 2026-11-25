@@ -21,8 +21,10 @@ The simulation studies evaluate the estimator against competing methods on point
 - **Gastrointestinal infections.** The analysis examines the evolution of the spatial distribution of reported infections.
 - **Worldwide earthquakes.** The analysis estimates the density of earthquakes with magnitude greater than 4.75 from 2020 to 2022 on the Earth's surface.
 
-The [2024 paper folder](./%5B2024%5D_begu_et_al__spatial_statistics) contains the supplementary materials for reproducing the simulation and application results.
+The [2024 paper folder](./%5B2024%5D_begu_et_al__spatial_statistics) contains the supplementary materials for reproducing the simulation and application results. 
 
 ## Citation
 
 Begu, B., Panzeri, S., Arnone, E., Carey, M., & Sangalli, L. M. (2024). A nonparametric penalized likelihood approach to density estimation of space-time point patterns. *Spatial Statistics, 61*, 100824. https://doi.org/10.1016/j.spasta.2024.100824
+
+Blerta Begu and Simone Panzeri contributed equally to this work. If you have questions about the code or how to reproduce the results, feel free to contact either of us.
