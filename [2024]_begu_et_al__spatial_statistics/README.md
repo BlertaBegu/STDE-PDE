@@ -6,7 +6,7 @@ This folder contains six simulation studies and two data applications. The simul
 
 ## Requirements
 
-The scripts call `DE.FEM.time()` from the **fdaPDE R package**. The companion library scripts specify version **1.1-16 or later**. The newer `fdaPDE-R` GitHub wrapper has a different interface.
+The scripts call `DE.FEM.time()` from the **fdaPDE R package**. 
 
 Each analysis has a `libraries_*.R` file listing its R package dependencies and a `helper_functions_*.R` file defining analysis-specific functions. Check the library file for the analysis you want to run. Keep any accompanying `data/`, `mesh/`, and `map/` directories in place.
 
